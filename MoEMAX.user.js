@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        MoEMax
 // @namespace   moemax
-// @description むきむきまっちょでMoEまくれ！
+// @description 不安なものをみえなくしたい
 // @include     http://moepic.com/
 // @include     https://moepic.com/
 // @grant       none
